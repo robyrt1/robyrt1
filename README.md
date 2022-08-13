@@ -17,7 +17,6 @@
  <- <img align="center" alt="rob-sequelize" height="30" width="40" src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor"> -> 
  <- <img align="center" alt="rob-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> ->
  <- <img align="center" alt="rob-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> ->
- <- <img align="center" alt="rob-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"> ->
  <- <img align="center" alt="rob-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> ->
   <isrc="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
