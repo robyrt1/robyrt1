@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-- 👀 Back-end development <br>- 👨‍💻 JavaScript Language (Node.js)<br>- 😁 Pronouns: he/it<br>- 🛑 20 years old
+- 👀 Back-end development <br>- 👨‍💻 JavaScript Language (Node.js)<br>- 😁 Pronouns: he/it<br>- 🛑 21 years old
 
 
 ## 🌐 Socials:
