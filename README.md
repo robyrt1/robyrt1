@@ -112,6 +112,5 @@
 
 
 ### Music  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=robertpintomendes&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=robertpintomendes&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
 <br/>  
