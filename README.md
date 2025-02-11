@@ -11,7 +11,7 @@
 - 🌱 Atualmente estou aprendendo C#/.Net AspNet  
   
 
-- ❓ Pergunte-me sobre qualquer coisa relacionada à Node e tecnologias relacionadas  
+- ❓ Pergunte-me sobre qualquer coisa relacionada à Node, C# e tecnologias relacionadas  
   
 
 <br/> 
