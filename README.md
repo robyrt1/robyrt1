@@ -1,116 +1,102 @@
-
-
 # 💫 About Me:
 
-### <div align="center">Sou Robert Mendes, desenvolvedor Back-end em tempo integral 👨‍💻 trabalhando desde 2022 🚀</div>  
-  
+### <div align="center">Sou Robert Mendes, Engenheiro de Software Back-end | Go, C# .NET & Sistemas Distribuídos 👨‍💻</div>  
 
-- 🔭 Atualmente estou trabalhando no  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/healthd-digital/mycompany/)   
-  
+- 🎯 **Disponível para:** Contratos PJ (Freelance / Consultoria) & Oportunidades CLT
+- 🏢 Engenheiro de Software no **INDT** (Instituto de Desenvolvimento Tecnológico)
+- 🚀 **Especialidades:** Microsserviços de alto throughput, APIs resilientes, mensageria orientada a eventos e integração de IA aplicada
+- 🧠 **Padrões de Engenharia:** Clean Architecture, CQRS, Protocolos de API (REST/OData), Otimização de Concorrência e Modelagem Relacional
+- 💬 **Stack Principal:** Node, C# (.NET 8), Go, RabbitMQ, SQL Server, PostgreSQL e Docker
 
-- 🌱 Atualmente estou aprendendo C#/.Net AspNet  
-  
+<br/>
 
-- ❓ Pergunte-me sobre qualquer coisa relacionada à Node, C# e tecnologias relacionadas  
-  
-
-<br/> 
-
-
-## 🌐 Socials:
+## 🌐 Contato Profissional & Redes:
 <div align="center">
-<a href="https://github.com/https://gitlab.com/robyrt1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/robyrt_mendes/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/https://github.com/robyrt1" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/robert-mendes-84384021a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <a href="https://www.linkedin.com/in/robert-mendes-84384021a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/robyrt1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://gitlab.com/robyrt1" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://instagram.com/robyrt_mendes/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br/>
+
+# 🛠️ Serviços & Entregas PJ / Freelance
+
+- **Diagnóstico de Performance, Profiling & Troubleshooting:** Análise aprofundada de APIs e microsserviços para identificação de gargalos de I/O, contenção de concorrência, memory leaks, latência de rede e otimização de throughput.
+- **Desenvolvimento de APIs & Microsserviços:** Criação de back-ends robustos e performáticos em Go, C# (.NET 8) ou NestJS.
+- **Arquitetura & Refatoração:** Migração de sistemas legados para Clean Architecture, separação de leitura/escrita com CQRS e implementação de filas assíncronas via RabbitMQ.
+- **Modelagem & Performance de Banco de Dados:** Estruturação relacional limpa, eliminação de locks/slow queries e otimização de consultas com SQL Server, PostgreSQL e Oracle.
+- **Automação & Agentes Inteligentes:** Integração de rotinas com LLMs locais, modelos matemáticos/solvers e processamento de tarefas em segundo plano.
+
+<br/>
 
 # 💻 Tech Stack:
-<table><tr><td valign="top" width="33%">
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <a href="https://go.dev/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" /></a>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></a>
+        <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="40" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>
+        <a href="https://nestjs.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="40" /></a>
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Infra & DevOps</h3>
+      <div align="center">
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
+        <a href="https://git-scm.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
+        <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab CI/CD" height="40" /></a>
+        <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq.png" alt="RabbitMQ" height="40" /></a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Databases & Caching</h3>
+      <div align="center">
+        <a href="https://www.microsoft.com/sql-server/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/mssql.png" alt="SQL Server" height="40" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>
+        <a href="https://www.oracle.com/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" /></a>
+        <a href="https://redis.io/" target="_blank"><img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
-### Frontend  
-<div align="center">  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-</div>
+# 📌 Repositórios em Destaque:
 
-</td><td valign="top" width="33%">
+<p align="center">
+  <a href="https://github.com/robyrt1/BudgetPath" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robyrt1&repo=BudgetPath&theme=gotham&hide_border=false" alt="BudgetPath Pin" />
+  </a>
+  <a href="https://github.com/robyrt1/albp-agent-service" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robyrt1&repo=albp-agent-service&theme=gotham&hide_border=false" alt="albp-agent-service Pin" />
+  </a>
+</p>
 
+### Soluções Desenvolvidas
 
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>  
-
-
-
-### Databases
-  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=robyrt1&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=robyrt1&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robyrt1&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=robyrt1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=robyrt1&icon=2&color=1)](https://visitcount.itsvg.in)
-
-
-### Music  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=robertpintomendes&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
-<br/>  
+- **BudgetPath ([Backend](https://github.com/robyrt1/BudgetPath) | [Frontend](https://github.com/robyrt1/BudgetPath-Front)):** Aplicação para controle financeiro pessoal e rastreamento de parcelamentos sem dependência bancária externa.
+  - Core estruturado em **C# (ASP.NET 8)** sob **Clean Architecture** e **CQRS** para segregação de comandos e consultas
+  - Suporte a filtros analíticos de dados com protocolo **OData**
+  - Modelagem e persistência relacional com **SQL Server** e **Entity Framework Core**
+- **[albp-agent-service](https://github.com/robyrt1/albp-agent-service):** Microsserviço de otimização logística e balanceamento de linhas de produção industrial (ALBP).
+  - Resolução matemática exata (MILP) utilizando o solver **HiGHS**
+  - Desacoplamento de processos assíncronos e eventos via **RabbitMQ**
+  - Agentes inteligentes e automação orientada a modelos de linguagem locais com **Ollama** e **NestJS**
