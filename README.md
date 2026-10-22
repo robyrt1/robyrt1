@@ -71,13 +71,13 @@
 
 <p align="center">
   <a href="https://github.com/robyrt1/guardrail-llm-service" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robyrt1&repo=guardrail-llm-service&theme=gotham&hide_border=false" alt="guardrail-llm-service Pin" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robyrt1&repo=guardrail-llm-service&theme=gotham&hide_border=false&v=1021" alt="guardrail-llm-service Pin" />
   </a>
   <a href="https://github.com/robyrt1/albp-agent-service" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robyrt1&repo=albp-agent-service&theme=gotham&hide_border=false" alt="albp-agent-service Pin" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robyrt1&repo=albp-agent-service&theme=gotham&hide_border=false&v=1021" alt="albp-agent-service Pin" />
   </a>
   <a href="https://github.com/robyrt1/BudgetPath" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robyrt1&repo=BudgetPath&theme=gotham&hide_border=false" alt="BudgetPath Pin" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=robyrt1&repo=BudgetPath&theme=gotham&hide_border=false&v=1021" alt="BudgetPath Pin" />
   </a>
 </p>
 
@@ -112,8 +112,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robyrt1&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robyrt1&layout=compact&theme=gotham&hide_border=false" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robyrt1&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&v=1021" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robyrt1&layout=compact&theme=gotham&hide_border=false&v=1021" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
